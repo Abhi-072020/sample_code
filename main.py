@@ -1,5 +1,5 @@
 def greating():
-    print("Welcome you on the GitHub community")
+    return "Welcome you on the GitHub community"
 
 if __name__ == "__main__":
-    greating()
+    print(greating())
